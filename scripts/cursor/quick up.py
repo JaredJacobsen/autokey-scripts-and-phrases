@@ -1,0 +1,1 @@
+keyboard.send_key('<up>', repeat=10)

@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "open Jupyter notebook",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 13,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>",
+            "<shift>"
+        ],
+        "hotKey": "n"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

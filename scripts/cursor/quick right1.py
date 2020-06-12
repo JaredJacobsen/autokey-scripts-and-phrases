@@ -1,0 +1,1 @@
+keyboard.send_key('<right>', repeat=10)

@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "test2",
+    "store": {},
+    "modes": [],
+    "usageCount": 50,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<super>"
+        ],
+        "hotKey": "j"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

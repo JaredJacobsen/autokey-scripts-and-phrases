@@ -1,0 +1,34 @@
+{
+    "type": "script",
+    "description": "plus",
+    "store": {
+        "double_i_<backspace>+": false,
+        "double_i_<backspace>++": false,
+        "double_i_<backspace><plus>": false,
+        "double_i_<backspace>\\+": false,
+        "double_i_<backspace>/+": false,
+        "double_i_<backspace><shift>+=": false,
+        "double_h_<backspace><shift>+=": false
+    },
+    "modes": [],
+    "usageCount": 37,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "h"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

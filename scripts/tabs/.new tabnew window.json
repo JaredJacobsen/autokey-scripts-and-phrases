@@ -1,0 +1,41 @@
+{
+    "type": "script",
+    "description": "new tab/new window",
+    "store": {
+        "num_click_switchtest0": true,
+        "num_click_switchtest1": true,
+        "num_click_switchtest2": false,
+        "num_click_switchtest20": false,
+        "num_click_switchtest21": false,
+        "num_click_switchnew_tab_or_window0": false,
+        "num_click_switchnew_tab_or_window1": false,
+        "num_click_switchnew_tab_or_window_default0": false,
+        "num_click_switchnew_tab_or_window_default1": false
+    },
+    "modes": [
+        3
+    ],
+    "usageCount": 240,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>",
+            "<super>"
+        ],
+        "hotKey": "w"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "type": "script",
+    "description": "curly braces",
+    "store": {
+        "double_k<backspace>{}<backspace><backspace>{<enter>": false,
+        "triple_k<backspace>{}<backspace><backspace>{<enter>": false,
+        "double_k<backspace>{}<left><right><backspace><backspace>{<enter>": false,
+        "triple_k<backspace>{}<left><right><backspace><backspace>{<enter>": false,
+        "double_k_<backspace>{}<left>_<right><backspace><backspace>{<enter>": false,
+        "triple_k_<backspace>{}<left>_<right><backspace><backspace>{<enter>": false,
+        "double_i_<backspace>{}<left>_<right><backspace><backspace>{<enter>": false,
+        "triple_i_<backspace>{}<left>_<right><backspace><backspace>{<enter>": false
+    },
+    "modes": [],
+    "usageCount": 102,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "i"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

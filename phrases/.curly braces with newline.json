@@ -1,0 +1,31 @@
+{
+    "type": "phrase",
+    "description": "curly braces with newline",
+    "modes": [
+        1
+    ],
+    "usageCount": 4,
+    "prompt": false,
+    "omitTrigger": false,
+    "matchCase": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "jkj"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": true,
+        "wordChars": "[^\\t]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    },
+    "sendMode": "kb"
+}

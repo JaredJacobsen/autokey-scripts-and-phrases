@@ -1,0 +1,1 @@
+keyboard.send_keys('<ctrl>+<right><shift>+<ctrl>+<left>')

@@ -1,0 +1,29 @@
+{
+    "type": "script",
+    "description": "left hand tab switch right",
+    "store": {},
+    "modes": [],
+    "usageCount": 11,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>",
+            "<super>"
+        ],
+        "hotKey": "w"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "script",
+    "description": "parantheses",
+    "store": {
+        "left_paran_double": false,
+        "double_bracket": false,
+        "double_[_<backspace>[]": false,
+        "double_(_<backspace>()<left>": false,
+        "double__<backspace>()<left>": false,
+        "double_j_<backspace>()<left>": false,
+        "double_j<backspace>()<left><right><backspace><backspace>()": false,
+        "triple_j<backspace>()<left><right><backspace><backspace>()": false,
+        "double_j<backspace>()<left><right><backspace><backspace>():<enter><tab>": false,
+        "triple_j<backspace>()<left><right><backspace><backspace>():<enter><tab>": false,
+        "double_j<backspace>()<left><right><backspace><backspace>():<enter>": false,
+        "triple_j<backspace>()<left><right><backspace><backspace>():<enter>": false,
+        "double_j<backspace>()<left><right><backspace><backspace>() => {<enter>}": false,
+        "triple_j<backspace>()<left><right><backspace><backspace>() => {<enter>}": false,
+        "double_j<backspace>()<left><right><backspace><backspace>() => {<enter>": false,
+        "triple_j<backspace>()<left><right><backspace><backspace>() => {<enter>": false,
+        "quad_j<backspace>()<left><right><backspace><backspace>()": false,
+        "double_j_<backspace>()<left>_<right><backspace><backspace>()_<backspace><backspace>():<enter>": false,
+        "triple_j_<backspace>()<left>_<right><backspace><backspace>()_<backspace><backspace>():<enter>": false,
+        "quad_j_<backspace>()<left>_<right><backspace><backspace>()_<backspace><backspace>():<enter>": false
+    },
+    "modes": [],
+    "usageCount": 581,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "jj"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": true,
+        "wordChars": "[^ \\n]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "j"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

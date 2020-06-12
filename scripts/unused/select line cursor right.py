@@ -1,0 +1,1 @@
+keyboard.send_keys('<end><home><home><shift>+<end>')

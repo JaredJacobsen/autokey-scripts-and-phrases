@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "Search highlighted text in new tab",
+    "store": {},
+    "modes": [],
+    "usageCount": 106,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<super>"
+        ],
+        "hotKey": "c"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

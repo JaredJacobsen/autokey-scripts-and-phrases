@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "uppercase i",
+    "store": {},
+    "modes": [],
+    "usageCount": 27,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<shift>"
+        ],
+        "hotKey": "i"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

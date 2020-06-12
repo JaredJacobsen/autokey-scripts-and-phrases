@@ -1,0 +1,38 @@
+{
+    "type": "script",
+    "description": "copy",
+    "store": {
+        "double_<ctrl>+c_<end><shift>+<home><shift>+<home><ctrl>+c<left>": false,
+        "double_<ctrl>+c<end><shift>+<home><ctrl>+c<left><end><shift>+<home><shift>+<home><ctrl>+c<left>": false,
+        "triple_<ctrl>+c<end><shift>+<home><ctrl>+c<left><end><shift>+<home><shift>+<home><ctrl>+c<left>": false,
+        "double_<ctrl>+c_<end><shift>+<home><ctrl>+c_<end><shift>+<home><shift>+<home><ctrl>+c": false,
+        "double_<ctrl>+c_<ctrl>+<right><ctrl>+<shift>+<left>_<end><shift>+<home><ctrl>+c_<end><shift>+<home><shift>+<home><ctrl>+c": false,
+        "triple_<ctrl>+c_<ctrl>+<right><ctrl>+<shift>+<left>_<end><shift>+<home><ctrl>+c_<end><shift>+<home><shift>+<home><ctrl>+c": false,
+        "quad_<ctrl>+c_<ctrl>+<right><ctrl>+<shift>+<left>_<end><shift>+<home><ctrl>+c_<end><shift>+<home><shift>+<home><ctrl>+c": false
+    },
+    "modes": [
+        3
+    ],
+    "usageCount": 165,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>"
+        ],
+        "hotKey": "w"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

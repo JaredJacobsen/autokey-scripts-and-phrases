@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "show notification",
+    "store": {
+        "num_click_switchshow_notifications0": false,
+        "num_click_switchshow_notifications1": false
+    },
+    "modes": [],
+    "usageCount": 32,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<super>"
+        ],
+        "hotKey": " "
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

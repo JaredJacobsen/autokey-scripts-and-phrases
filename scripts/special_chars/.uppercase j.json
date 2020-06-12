@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "uppercase j",
+    "store": {},
+    "modes": [],
+    "usageCount": 3,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<shift>"
+        ],
+        "hotKey": "j"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "script",
+    "description": "equals",
+    "store": {
+        "double_h_<backspace>=": false,
+        "double_k_<backspace>=": false
+    },
+    "modes": [],
+    "usageCount": 111,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "k"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

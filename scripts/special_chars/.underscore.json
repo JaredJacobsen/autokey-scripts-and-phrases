@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "underscore",
+    "store": {
+        "double_u_<backspace>__<backspace><backspace>__": false,
+        "triple_u_<backspace>__<backspace><backspace>__": false,
+        "double_u_<backspace>___": false,
+        "triple_u_<backspace>___": false
+    },
+    "modes": [],
+    "usageCount": 74,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "u"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "jump to beginning of line highlighting",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 28,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>",
+            "<super>"
+        ],
+        "hotKey": "a"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

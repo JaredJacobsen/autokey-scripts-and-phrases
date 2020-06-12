@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "control g shift",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 6,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>",
+            "<shift>"
+        ],
+        "hotKey": "g"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

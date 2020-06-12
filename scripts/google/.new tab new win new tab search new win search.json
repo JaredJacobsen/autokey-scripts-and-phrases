@@ -1,0 +1,35 @@
+{
+    "type": "script",
+    "description": "new tab, new win, new tab search, new win search",
+    "store": {
+        "num_click_switchquad_chrome0": false,
+        "num_click_switchquad_chrome1": false,
+        "num_click_switchquad_chrome2": false,
+        "num_click_switchquad_chrome3": false
+    },
+    "modes": [
+        3
+    ],
+    "usageCount": 122,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<super>"
+        ],
+        "hotKey": "w"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

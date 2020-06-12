@@ -1,0 +1,25 @@
+{
+    "type": "folder",
+    "title": "scripts",
+    "modes": [],
+    "usageCount": 1179,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "a"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

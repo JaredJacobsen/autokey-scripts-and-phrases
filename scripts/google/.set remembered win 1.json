@@ -1,0 +1,32 @@
+{
+    "type": "script",
+    "description": "set remembered win 1",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 6,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<ctrl>",
+            "<shift>",
+            "<super>"
+        ],
+        "hotKey": "3"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
