@@ -21,7 +21,7 @@ for f in files:
             k = '+'.join(h['modifiers'] + [h['hotKey']])
             hotkeys.append((obj['description'], k))
          
-hotkey_file = '/home/jared/.config/autokey/hotkey_list.txt'
+hotkey_file = '/home/jared/.config/autokey/data/hotkey_list.txt'
    
 with open(hotkey_file, 'w') as fout:
     fout.write(tabulate(hotkeys, headers=['Description', 'Hotkey']))

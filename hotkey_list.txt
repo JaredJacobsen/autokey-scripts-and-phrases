@@ -1,0 +1,90 @@
+Description                                       Hotkey
+------------------------------------------------  -------------------------
+open Roam                                         <alt>+;
+open Todoist                                      <alt>+l
+quick note                                        <alt>+'
+show notes                                        <alt>+<shift>+'
+open Keep                                         <alt>+k
+open Focus                                        <alt>+i
+uppercase h                                       <shift>+h
+uppercase j                                       <shift>+j
+plus                                              h
+uppercase k                                       <shift>+k
+curly braces                                      i
+parantheses                                       j
+right paran                                       <alt>+0
+plus                                              <alt>+=
+underscore                                        u
+left paran                                        <alt>+9
+colon                                             ;
+uppercase i                                       <shift>+i
+equals                                            k
+uppercase ;                                       <shift>+;
+omnibox                                           <hyper>+d
+open remembered win 2                             <super>+3
+set remembered win 1                              <ctrl>+<shift>+<super>+3
+open remembered win 1                             <super>+3
+set chrome win for tabs                           <shift>+<super>+w
+back                                              <hyper>+q
+restore chrome tab                                <shift>+<super>+q
+new tab, new win, new tab search, new win search  <super>+w
+set remembered win 2                              <shift>+<super>+3
+shift down                                        <hyper>+<shift>+k
+up                                                <hyper>+l
+highlight quick down                              <hyper>+<shift>+<super>+k
+quick down                                        <hyper>+<down>
+shift up                                          <hyper>+<shift>+l
+shift left                                        <hyper>+<shift>+j
+quick right                                       <hyper>+<right>
+quick left                                        <alt>+<hyper>+j
+quick up                                          <hyper>+<up>
+quick down                                        <hyper>+<super>+k
+quick right                                       <alt>+<hyper>+;
+word left                                         <hyper>+<super>+j
+jump to end of line                               <hyper>+s
+down                                              <hyper>+k
+word right                                        <hyper>+<super>+;
+right                                             <hyper>+;
+quick up                                          <hyper>+<super>+l
+shift right                                       <hyper>+<shift>+;
+quick left                                        <hyper>+<left>
+left                                              <hyper>+j
+word left highlighting                            <hyper>+<shift>+<super>+j
+highlight word left                               <hyper>+.
+highlight word right                              <hyper>+,
+jump to beginning of line highlighting            <hyper>+<super>+a
+jump to beginning of line                         <hyper>+a
+highlight quick up                                <hyper>+<shift>+<super>+l
+word right highlighting                           <hyper>+<shift>+<super>+;
+jump to end of line highlighting                  <hyper>+<super>+s
+new tab/new window                                <hyper>+<super>+w
+close tab/close win                               <super>+q
+Tab Switch Left                                   <alt>+[
+Tab Switch Right                                  <super>+;
+Tab Switch Left                                   <super>+j
+Tab Switch Right                                  <alt>+]
+set_language_context                              <ctrl>+<super>+1
+copy URL                                          <super>+u
+Display window info                               <ctrl>+<shift>+<super>+i
+open VScode                                       <super>+v
+pause music                                       <super>+p
+open Jupyter notebook                             <hyper>+<shift>+n
+open Colab notebook                               <hyper>+n
+display hotkeys                                   <ctrl>+<shift>+<super>+h
+shift control z                                   <shift>+<super>+z
+wrap content                                      <hyper>+9
+shift control z                                   <shift>+<super>+a
+delete line                                       <super>+<backspace>
+control z                                         <super>+z
+control z                                         <super>+a
+delete previous word                              <hyper>+<backspace>
+control g shift                                   <hyper>+<shift>+g
+copy                                              <hyper>+w
+paste                                             <hyper>+e
+save                                              <super>+s
+reverse backspace                                 <shift>+<backspace>
+up workspace                                      <super>+l
+find                                              <hyper>+f
+control g                                         <hyper>+g
+down workspace                                    <super>+k
+cut                                               <hyper>+r
