@@ -1,14 +1,11 @@
 {
     "type": "script",
-    "description": "wrap content",
-    "store": {
-        "num_click_switchwrap_content0": false,
-        "num_click_switchwrap_content1": false
-    },
+    "description": "test2",
+    "store": {},
     "modes": [
         3
     ],
-    "usageCount": 21,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -24,7 +21,7 @@
         "modifiers": [
             "<hyper>"
         ],
-        "hotKey": "9"
+        "hotKey": "5"
     },
     "filter": {
         "regex": null,
