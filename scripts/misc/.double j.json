@@ -1,0 +1,35 @@
+{
+    "type": "script",
+    "description": "double j",
+    "store": {
+        "key_value_store": {
+            "hey": "hey 2",
+            "hi": "hi value"
+        }
+    },
+    "modes": [
+        1
+    ],
+    "usageCount": 11,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "vv"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": true,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
