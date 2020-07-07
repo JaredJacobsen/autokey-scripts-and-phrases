@@ -8,7 +8,7 @@ if not retCode and key != '':
     if key_value_store is None:
         key_value_store = {}
     
-    value = key_value_store.get(key)
+    value = key_value_store.get(key, 'value not set')
     retCode, value = dialog.input_dialog(
         title='key value store',
         message=value,
