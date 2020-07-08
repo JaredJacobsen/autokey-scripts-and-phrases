@@ -6,4 +6,4 @@ except:
     pass
 
 time.sleep(1)
-keyboard.send_keys('jupyter notebook code/do_not_delete/hotkey.ipynb<enter>')
+keyboard.send_keys('jupyter notebook ~/code/do_not_delete/hotkey.ipynb<enter>')

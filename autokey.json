@@ -1,6 +1,6 @@
 {
     "version": "0.95.10",
-    "userCodeDir": null,
+    "userCodeDir": "/home/jaredjacobsen/.config/autokey/data/script_engine",
     "settings": {
         "isFirstRun": true,
         "serviceRunning": true,
@@ -32,13 +32,12 @@
     "toggleServiceHotkey": {
         "enabled": true,
         "modifiers": [
-            "<shift>",
             "<super>"
         ],
-        "hotKey": "k"
+        "hotKey": "8"
     },
     "configHotkey": {
-        "enabled": true,
+        "enabled": false,
         "modifiers": [
             "<super>"
         ],

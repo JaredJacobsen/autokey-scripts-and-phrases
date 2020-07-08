@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "display hotkeys",
+    "description": "open Roam",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 37,
+    "usageCount": 57,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,11 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<ctrl>",
-            "<shift>",
-            "<super>"
+            "<alt>"
         ],
-        "hotKey": "h"
+        "hotKey": ";"
     },
     "filter": {
         "regex": null,

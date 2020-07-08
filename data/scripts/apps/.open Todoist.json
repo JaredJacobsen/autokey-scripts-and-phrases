@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "quick note",
+    "description": "open Todoist",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 45,
+    "usageCount": 49,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<alt>"
         ],
-        "hotKey": "'"
+        "hotKey": "l"
     },
     "filter": {
         "regex": null,

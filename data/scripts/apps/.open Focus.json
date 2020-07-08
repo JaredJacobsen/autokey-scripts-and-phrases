@@ -1,8 +1,11 @@
 {
-    "type": "folder",
-    "title": "notes",
+    "type": "script",
+    "description": "open Focus",
+    "store": {},
     "modes": [],
-    "usageCount": 0,
+    "usageCount": 75,
+    "prompt": false,
+    "omitTrigger": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -13,8 +16,10 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": null
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "i"
     },
     "filter": {
         "regex": null,
