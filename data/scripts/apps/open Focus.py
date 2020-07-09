@@ -2,7 +2,7 @@ import time
 active_title = window.get_active_title()
 if 'Focus To-Do' in active_title:
     try:
-        system.exec_command('xdotool getactivewindow windowminimize')
+        system.exec_command('xdotool getactivewindow set_desktop_for_window 0')
     except:
         pass
 else:
