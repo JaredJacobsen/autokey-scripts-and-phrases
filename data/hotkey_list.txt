@@ -10,15 +10,7 @@ open remembered win 2                             <super>+3
 set remembered win 2                              <shift>+<super>+3
 new tab, new win, new tab search, new win search  <super>+w
 display hotkeys                                   <ctrl>+<shift>+<super>+h
-quick note                                        <alt>+'
-show notes                                        <alt>+<shift>+'
-open Todoist                                      <alt>+l
-open youtube music                                <alt>+;
-open Roam                                         <alt>+;
-open Keep                                         <alt>+k
-open Focus                                        <alt>+i
 down workspace                                    <super>+k
-control z                                         <super>+a
 test2                                             <hyper>+5
 delete previous word                              <hyper>+<backspace>
 control g                                         <hyper>+g
@@ -29,13 +21,24 @@ shift control z                                   <shift>+<super>+z
 paste                                             <hyper>+e
 control z                                         <super>+z
 shift control z                                   <shift>+<super>+a
+select all                                        <super>+a
 save                                              <super>+s
 control g shift                                   <hyper>+<shift>+g
 copy                                              <hyper>+w
 wrap content                                      <hyper>+9
 reverse backspace                                 <shift>+<backspace>
+reverse backspace                                 <shift>+<backspace>
 cut                                               <hyper>+r
 up workspace                                      <super>+l
+quick note                                        <alt>+'
+show notes                                        <alt>+<shift>+'
+open Todoist                                      <alt>+l
+open youtube music                                <alt>+/
+open gmail                                        <alt>+,
+open Roam                                         <alt>+;
+open Keep                                         <alt>+k
+open Focus                                        <alt>+i
+open messenger                                    <alt>+.
 new tab/new window                                <hyper>+<super>+w
 Tab Switch Right                                  <super>+;
 Tab Switch Left                                   <alt>+[
