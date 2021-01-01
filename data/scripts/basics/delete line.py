@@ -1,1 +1,1 @@
-keyboard.send_keys('<end><shift>+<home><shift>+<home><backspace>')
+keyboard.send_keys('<end><shift>+<home><shift>+<home><backspace><backspace>')

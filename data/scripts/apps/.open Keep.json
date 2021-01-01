@@ -5,7 +5,7 @@
     "modes": [
         3
     ],
-    "usageCount": 140,
+    "usageCount": 142,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +21,7 @@
         "modifiers": [
             "<alt>"
         ],
-        "hotKey": "k"
+        "hotKey": "m"
     },
     "filter": {
         "regex": null,

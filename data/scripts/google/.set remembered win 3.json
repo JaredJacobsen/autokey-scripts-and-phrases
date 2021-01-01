@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "shift control z",
+    "description": "set remembered win 3",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 4,
+    "usageCount": 2,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,10 +19,11 @@
     },
     "hotkey": {
         "modifiers": [
+            "<ctrl>",
             "<shift>",
             "<super>"
         ],
-        "hotKey": "c"
+        "hotKey": "1"
     },
     "filter": {
         "regex": null,

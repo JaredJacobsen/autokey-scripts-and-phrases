@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<shift>",
             "<super>"
         ],
-        "hotKey": "c"
+        "hotKey": "."
     },
     "filter": {
         "regex": null,

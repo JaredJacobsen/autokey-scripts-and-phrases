@@ -15,7 +15,7 @@
             1653,
             869
         ],
-        "hPanePosition": 417,
+        "hPanePosition": 554,
         "columnWidths": [
             150,
             50,
@@ -26,7 +26,11 @@
         "workAroundApps": ".*VirtualBox.*|krdc.Krdc",
         "triggerItemByInitial": false,
         "disabledModifiers": [],
-        "scriptGlobals": {}
+        "scriptGlobals": {
+            "remembered_win_1_id": "0x04400523",
+            "remembered_win_2_id": "0x044000a7",
+            "remembered_win_3_id": "0x03c00001"
+        }
     },
     "folders": [],
     "toggleServiceHotkey": {

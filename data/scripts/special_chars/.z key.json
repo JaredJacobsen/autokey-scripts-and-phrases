@@ -1,6 +1,6 @@
 {
     "type": "script",
-    "description": "shift control z",
+    "description": "z key",
     "store": {},
     "modes": [
         3
@@ -19,8 +19,7 @@
     },
     "hotkey": {
         "modifiers": [
-            "<shift>",
-            "<super>"
+            "<hyper>"
         ],
         "hotKey": "c"
     },

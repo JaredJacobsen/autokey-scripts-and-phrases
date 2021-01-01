@@ -1,6 +1,6 @@
 from utils import get_win_title_from_id
 
-win_id = store.get_global_value('remembered_win_2_id')
+win_id = store.get_global_value('remembered_win_3_id')
 
 if win_id is not None:
     win_info = system.exec_command("wmctrl -l | grep '{}'".format(win_id), getOutput=True)

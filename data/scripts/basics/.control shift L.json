@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "shift control z",
+    "description": "control shift L",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 4,
+    "usageCount": 20,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,10 +19,9 @@
     },
     "hotkey": {
         "modifiers": [
-            "<shift>",
-            "<super>"
+            "<ctrl>"
         ],
-        "hotKey": "c"
+        "hotKey": "'"
     },
     "filter": {
         "regex": null,

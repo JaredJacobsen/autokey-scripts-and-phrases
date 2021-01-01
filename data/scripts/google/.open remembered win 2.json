@@ -2,7 +2,9 @@
     "type": "script",
     "description": "open remembered win 2",
     "store": {},
-    "modes": [],
+    "modes": [
+        3
+    ],
     "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
@@ -19,7 +21,7 @@
         "modifiers": [
             "<super>"
         ],
-        "hotKey": "3"
+        "hotKey": "2"
     },
     "filter": {
         "regex": null,

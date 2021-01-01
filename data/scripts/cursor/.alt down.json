@@ -1,11 +1,11 @@
 {
     "type": "script",
-    "description": "control g shift",
+    "description": "alt down",
     "store": {},
     "modes": [
         3
     ],
-    "usageCount": 6,
+    "usageCount": 17,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -19,10 +19,10 @@
     },
     "hotkey": {
         "modifiers": [
-            "<hyper>",
-            "<shift>"
+            "<alt>",
+            "<hyper>"
         ],
-        "hotKey": "g"
+        "hotKey": "k"
     },
     "filter": {
         "regex": null,
