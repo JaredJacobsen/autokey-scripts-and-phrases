@@ -1,5 +1,15 @@
 import time
 
+def open_roam(active_class, exec_command, activate):
+    if 'crx_dpbhdojchflfefifdehlgddpoaanhgnf.Google-chrome' in active_class:
+        try:
+            exec_command('xdotool getactivewindow set_desktop_for_window 0')
+        except:
+            pass
+    else:
+        activate('crx_dpbhdojchflfefifdehlgddpoaanhgnf.Google-chrome', matchClass=True)
+
+
 def close_window(exec_command):
     try:
         exec_command('wmctrl -c :ACTIVE:')

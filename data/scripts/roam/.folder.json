@@ -1,13 +1,8 @@
 {
-    "type": "script",
-    "description": "cut",
-    "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 10,
-    "prompt": false,
-    "omitTrigger": false,
+    "type": "folder",
+    "title": "roam",
+    "modes": [],
+    "usageCount": 0,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [],
@@ -18,10 +13,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<hyper>"
-        ],
-        "hotKey": "x"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,

@@ -2,10 +2,8 @@
     "type": "script",
     "description": "minus",
     "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 1,
+    "modes": [],
+    "usageCount": 3,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,

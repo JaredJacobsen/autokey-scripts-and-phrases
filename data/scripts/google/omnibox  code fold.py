@@ -1,7 +1,7 @@
 from utils import num_click_switch, get_win_title_from_id, active_class_switch
     
 
-def f():
+def chrome_function():
     num_click_switch(
         store.get_value, store.set_value,
         name='double_omnibox',
@@ -12,7 +12,19 @@ def f():
         timeout=0.18
     )
     
+def vscode_function():
+    num_click_switch(
+        store.get_value, store.set_value,
+        name='double_code_fold',
+        functions=[
+            lambda: keyboard.send_keys('<ctrl>+k<ctrl>+l'),
+            lambda: keyboard.send_keys('<ctrl>+k<ctrl>+]'),
+            lambda: keyboard.send_keys('<ctrl>+k<ctrl>+[')
+        ],
+        timeout=0.18
+    )
+    
 active_class_switch(window.get_active_class, {
-    'chrome': f,
-    'vscode': lambda: keyboard.send_keys('<ctrl>+k<ctrl>+l')
+    'chrome': chrome_function,
+    'vscode': vscode_function
 })

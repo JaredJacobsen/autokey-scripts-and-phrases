@@ -1,11 +1,17 @@
 {
     "type": "script",
-    "description": "cut",
-    "store": {},
+    "description": "omnibox / code fold",
+    "store": {
+        "num_click_switchdouble_omnibox0": false,
+        "num_click_switchdouble_omnibox1": false,
+        "num_click_switchdouble_code_fold0": false,
+        "num_click_switchdouble_code_fold1": false,
+        "num_click_switchdouble_code_fold2": false
+    },
     "modes": [
         3
     ],
-    "usageCount": 10,
+    "usageCount": 284,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -21,7 +27,7 @@
         "modifiers": [
             "<hyper>"
         ],
-        "hotKey": "x"
+        "hotKey": "d"
     },
     "filter": {
         "regex": null,

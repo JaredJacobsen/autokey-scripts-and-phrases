@@ -1,14 +1,11 @@
 {
     "type": "script",
-    "description": "omnibox",
-    "store": {
-        "num_click_switchdouble_omnibox0": false,
-        "num_click_switchdouble_omnibox1": false
-    },
+    "description": "code unfold all",
+    "store": {},
     "modes": [
         3
     ],
-    "usageCount": 105,
+    "usageCount": 10,
     "prompt": false,
     "omitTrigger": false,
     "showInTrayMenu": false,
@@ -22,7 +19,7 @@
     },
     "hotkey": {
         "modifiers": [
-            "<hyper>"
+            "<super>"
         ],
         "hotKey": "d"
     },
